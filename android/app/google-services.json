@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "473169467435",
+    "project_id": "finalsocialapp-8d871",
+    "storage_bucket": "finalsocialapp-8d871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473169467435:android:b530e178b47bf21480f26e",
+        "android_client_info": {
+          "package_name": "com.example.final_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473169467435-gugdq0k2lnp54aot2l2nm5hes8mlp194.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_social_app",
+            "certificate_hash": "167b6cfbd02a95e39cf4e329800db5e2d7fcfef4"
+          }
+        },
+        {
+          "client_id": "473169467435-s64oqmcfjjafdl59dklll3u905olvviq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnjhcHAsKteq7geWEw0gu7SNfBkNlCPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473169467435-s64oqmcfjjafdl59dklll3u905olvviq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473169467435-ut4bk1s2qbvadb61udmcdibvp4a10ng8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalSocialApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473169467435:android:0aac1a31426dac6180f26e",
+        "android_client_info": {
+          "package_name": "com.example.work_os_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473169467435-vtgjs358mmdfjmgkm5cqced5c95n4nq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work_os_firebase",
+            "certificate_hash": "3df31f7e2111cc2bfef1eef050386d716d9fc08f"
+          }
+        },
+        {
+          "client_id": "473169467435-s64oqmcfjjafdl59dklll3u905olvviq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnjhcHAsKteq7geWEw0gu7SNfBkNlCPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473169467435-s64oqmcfjjafdl59dklll3u905olvviq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473169467435-ut4bk1s2qbvadb61udmcdibvp4a10ng8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalSocialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
